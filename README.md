@@ -4,7 +4,9 @@
   <img width="48%"" src="https://github-readme-stats.vercel.app/api?username=Hinperos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hinperos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+                                                                                                                                           
+  ## Tecnologias que eu uso no meu dia.
+                                                                                                                                           
 <div style="display: inline_block"><br>
   <img align="center" alt="ian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--   <img align="center" alt="ian-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
@@ -16,7 +18,6 @@
   <img align="right" alt="ian-pic" height="150" style="border-radius:50px;" src="https://pm1.narvii.com/6335/2c19084c3f16b41523cec01545699edc560fcb08_hq.jpg">
 </div>
   
-  ## Tecnologias que eu uso no meu dia
  
 <div> 
   <a href="https://www.youtube.com/channel/UCL-rymd9wkDdtcXalKBSUtA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
